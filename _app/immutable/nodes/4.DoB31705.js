@@ -1,0 +1,1 @@
+import{I as e,h as t,p as n}from"../chunks/DpI3G_cS.js";import"../chunks/xihTtKlq.js";var r=t(`<h2>Things less than 3</h2> <ul><li><a href="https://nonlinearvalentine.than3.com/">Nonlinear Valentine</a></li></ul>`,1);function i(t){var i=r();e(2),n(t,i)}export{i as component};
